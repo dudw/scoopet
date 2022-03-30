@@ -160,8 +160,8 @@ scoop config aria2-min-split-size 4M
 |       KingDraw        |       √       | √                                                                   |
 |        LogSeq         |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
 |        LyX-cn         |       √       | √                                                                   |
-| Mathpix Snipping Tool |       √       | √                                                                   |
-|   Mendeley Desktop    |       √       | √                                                                   |
+| Mathpix-Snipping-Tool |       √       | √                                                                   |
+|   Mendeley-Desktop    |       √       | √                                                                   |
 |     Miniconda-cn      |       √       | √                                                                   |
 |        NetLogo        |       √       | √                                                                   |
 |      SageMath-cn      |       √       | √                                                                   |
@@ -175,33 +175,34 @@ scoop config aria2-min-split-size 4M
 | :-----------------------------------: | :-----------: | ------------------------------------------------------------------- |
 |           Clash-for-Windows           |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
 |               Cyberduck               |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
-|          Partition Assistant          |       √       | √                                                                   |
+|          Partition-Assistant          |       √       | √                                                                   |
 |             RectangleWin              |       √       | √                                                                   |
 |                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
 | VirtualBox <br> [with Extension Pack] |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
-|        VMware Workstation Pro         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|        VMware-Workstation-Pro         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
 |                WinGet                 |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
 
 ### Daily Work
 
-|       App        | Auto-Update ? | Original ?                                                |
-| :--------------: | :-----------: | --------------------------------------------------------- |
-|   BaiduNetDisk   |       √       | √                                                         |
-|  File Converter  |       √       | √                                                         |
-|  OBS Studio-cn   |       √       | √                                                         |
-| Office Tool Plus |       √       | √                                                         |
-|     RustDesk     |       √       | √                                                         |
-|      Weasel      |       √       | √                                                         |
-|  Wise Care 365   |       √       | √                                                         |
-|    WPSOffice     |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|       App       | Auto-Update ? | Original ?                                                |
+| :-------------: | :-----------: | --------------------------------------------------------- |
+|  BaiduNetDisk   |       √       | √                                                         |
+| File-Converter  |       √       | √                                                         |
+|  OBS-Studio-cn  |       √       | √                                                         |
+| OfficeToolPlus  |       √       | √                                                         |
+|    RustDesk     |       √       | √                                                         |
+| Tencent-Meeting |       √       | √ (added by @Ryanjiena)                                          |
+|     Weasel      |       √       | √                                                         |
+|   WiseCare365   |       √       | √                                                         |
+|    WPSOffice    |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Social & Entertainment
 
-|      App      | Auto-Update ? | Original ?                                                |
-| :-----------: | :-----------: | --------------------------------------------------------- |
-|   DingTalk    |       √       | √                                                         |
-|   LX Music    |       √       | √                                                         |
-|    magnetW    |       √       | √                                                         |
-| NetEase Music |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|    WeChat     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|    You-Get    |       √       | √                                                         |
+|     App      | Auto-Update ? | Original ?                                                |
+| :----------: | :-----------: | --------------------------------------------------------- |
+|   DingTalk   |       √       | √                                                         |
+|   LXMusic    |       √       | √                                                         |
+|   magnetW    |       √       | √                                                         |
+| NetEaseMusic |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|    WeChat    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|   You-Get    |       √       | √                                                         |

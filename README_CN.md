@@ -193,6 +193,7 @@ scoop config aria2-min-split-size 4M
 |  OBS Studio-cn   |    √     | √                                                    |
 | Office Tool Plus |    √     | √                                                    |
 |     RustDesk     |    √     | √                                                    |
+|     腾讯会议     |    √     | √ （由@Ryanjiena 贡献）                              |
 |   小狼毫输入法   |    √     | √                                                    |
 |  Wise Care 365   |    √     | √                                                    |
 |    WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
@@ -215,5 +216,5 @@ scoop config aria2-min-split-size 4M
 
 ```powerhsell
 scoop install winget
-winget install Tencent.QQ Tencent.TencentMeeting
+winget install Tencent.QQ
 ```
