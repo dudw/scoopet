@@ -72,7 +72,7 @@ Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.
 
 ### :book: 步骤 4：通过`scoop help`查看快速上手方法
 
-更多信息，请访问 Scoop 官网 👉 https://scoop.sh/ 👈
+更多信息，请访问 Scoop 官网 👉 <https://scoop.sh/> 👈
 
 ## :car: 利用扩展库安装 App
 
@@ -94,7 +94,7 @@ scoop config aria2-enabled false
 scoop install git
 ```
 
-### :airplane: 步骤 3：添加本仓库并更新，么么哒~ :kiss:
+### :airplane: 步骤 3：添加本仓库并更新，么么哒~ :kiss
 
 ```powershell
 scoop bucket add scoopet https://github.com/ivaquero/scoopet
@@ -199,6 +199,7 @@ scoop config aria2-min-split-size 4M
 |  Wise Care 365   |    √     | √                                                    |
 |    WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |     百度网盘     |    √     | √                                                    |
+| M3u8-Downloader  |       √       | √                                                         |
 
 ### 社交休闲
 

@@ -189,6 +189,7 @@ scoop config aria2-min-split-size 4M
 | :-------------: | :-----------: | --------------------------------------------------------- |
 |  BaiduNetDisk   |       √       | √                                                         |
 | File-Converter  |       √       | √                                                         |
+| M3u8-Downloader  |       √       | √                                                         |
 |  OBS-Studio-cn  |       √       | √                                                         |
 | OfficeToolPlus  |       √       | √                                                         |
 |    RustDesk     |       √       | √                                                         |
