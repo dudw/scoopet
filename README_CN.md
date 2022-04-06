@@ -165,6 +165,7 @@ scoop config aria2-min-split-size 4M
 |        LyX-cn         |    √     | √                                                                |
 | Mathpix Snipping Tool |    √     | √                                                                |
 |   Mendeley Desktop    |    √     | √                                                                |
+|      Mambaforge-cn      |       √       | √                                                                   |
 |     Miniconda-cn      |    √     | √                                                                |
 |        NetLogo        |    √     | √                                                                |
 |      SageMath-cn      |    √     | √                                                                |
