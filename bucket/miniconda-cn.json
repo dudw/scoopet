@@ -41,8 +41,8 @@
         "Library\\bin"
     ],
     "checkver": {
-        "url": "https://chocolatey.org/packages/miniconda3",
-        "regex": "Downloads of v\\s+([\\d.]+)"
+        "url": "https://docs.conda.io/en/latest/miniconda.html",
+        "regex": "Miniconda3-py39_([\\d.]+)-Windows"
     },
     "autoupdate": {
         "architecture": {
