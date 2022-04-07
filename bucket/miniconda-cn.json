@@ -54,8 +54,8 @@
             }
         },
         "hash": {
-            "url": "$baseurl",
-            "regex": "(?sm)$basename<.*?<td>$md5</td>"
+            "url": "https://docs.conda.io/en/latest/miniconda.html",
+            "regex": "(?sm)$basename.*?>$sha256<"
         }
     }
 }
