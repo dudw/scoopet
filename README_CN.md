@@ -161,7 +161,6 @@ scoop config aria2-min-split-size 4M
 |         Gephi         |    √     | √                                                                |
 |       Julia-cn        |    √     | √                                                                |
 |       KingDraw        |    √     | √                                                                |
-|        LogSeq         |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
 |        LyX-cn         |    √     | √                                                                |
 | Mathpix Snipping Tool |    √     | √                                                                |
 |   Mendeley Desktop    |    √     | √                                                                |
@@ -178,7 +177,6 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 | 原创                                                             |
 | :--------------------: | :------: | ---------------------------------------------------------------- |
 |   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-|       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
 |      RectangleWin      |    √     | √                                                                |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
 | VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
