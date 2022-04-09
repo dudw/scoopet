@@ -72,7 +72,7 @@ Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.
 
 ### :book: 步骤 4：通过`scoop help`查看快速上手方法
 
-更多信息，请访问 Scoop 官网 👉 https://scoop.sh/ 👈
+更多信息，请访问 Scoop 官网 👉 <https://scoop.sh/> 👈
 
 ## :car: 利用扩展库安装 App
 
@@ -94,7 +94,7 @@ scoop config aria2-enabled false
 scoop install git
 ```
 
-### :airplane: 步骤 3：添加本仓库并更新，么么哒~ :kiss:
+### :airplane: 步骤 3：添加本仓库并更新，么么哒~ :kiss
 
 ```powershell
 scoop bucket add scoopet https://github.com/ivaquero/scoopet
@@ -161,10 +161,10 @@ scoop config aria2-min-split-size 4M
 |         Gephi         |    √     | √                                                                |
 |       Julia-cn        |    √     | √                                                                |
 |       KingDraw        |    √     | √                                                                |
-|        LogSeq         |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
 |        LyX-cn         |    √     | √                                                                |
 | Mathpix Snipping Tool |    √     | √                                                                |
 |   Mendeley Desktop    |    √     | √                                                                |
+|      Mambaforge-cn      |       √       | √                                                                   |
 |     Miniconda-cn      |    √     | √                                                                |
 |        NetLogo        |    √     | √                                                                |
 |      SageMath-cn      |    √     | √                                                                |
@@ -174,15 +174,15 @@ scoop config aria2-min-split-size 4M
 
 ### 开发辅助
 
-|          App           | 自动更新 | 原创                                                                |
-| :--------------------: | :------: | ------------------------------------------------------------------- |
-|       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras)    |
-|    scoop-completion    |    √     | 拷贝自 [Moeologist](https://github.com/Moeologist/scoop-completion) |
-|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)                |
-| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)             |
-| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)             |
-|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)             |
-|      傲梅分区助手      |    √     | √                                                                   |
+|          App           | 自动更新 | 原创                                                             |
+| :--------------------: | :------: | ---------------------------------------------------------------- |
+|   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
+|      RectangleWin      |    √     | √                                                                |
+|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
+| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
+| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
+|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
+|      傲梅分区助手      |    √     | √                                                                |
 
 ### 日常办公
 
@@ -192,11 +192,12 @@ scoop config aria2-min-split-size 4M
 |  OBS Studio-cn   |    √     | √                                                    |
 | Office Tool Plus |    √     | √                                                    |
 |     RustDesk     |    √     | √                                                    |
+|     腾讯会议     |    √     | √ （由@Ryanjiena 贡献）                              |
 |   小狼毫输入法   |    √     | √                                                    |
 |  Wise Care 365   |    √     | √                                                    |
 |    WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |     百度网盘     |    √     | √                                                    |
-|     腾讯会议     |    ×     | 拷贝自 [sushi](https://github.com/kidonng/sushi/)    |
+| M3u8-Downloader  |       √       | √                                                         |
 
 ### 社交休闲
 
@@ -208,3 +209,12 @@ scoop config aria2-min-split-size 4M
 |     微信     |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |   magnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
+
+## 备注
+
+由于 Win 到权限管理复杂，对于一些常见的不提供 portable 安装包，且需要管理员应用的权限，建议使用 WinGet 进行安装
+
+```powerhsell
+scoop install winget
+winget install Tencent.QQ
+```

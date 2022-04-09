@@ -1,9 +1,9 @@
 {
     "homepage": "https://pan.baidu.com/download",
     "description": "百度网盘PC版",
-    "version": "7.12.1.1",
-    "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.12.1.1.exe#dl.7z",
-    "hash": "e15555b085c370e31afb896d8bd9f5eff7b8c4e3daad352ea552fdeca3bbe93e",
+    "version": "7.14.1.6",
+    "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.14.1.6.exe#dl.7z",
+    "hash": "da426e1ace3db7e1ad05010578934d9bdac41f2f179cfa5a69476cfeebcd72e9",
     "bin": "BaiduNetdisk.exe",
     "shortcuts": [
         [
